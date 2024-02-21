@@ -3,7 +3,7 @@ title = "Batscheck Bryanzaeff"
 languageCode = "es-es"
 defaultContentLanguage = "en"
 paginate = "7"
-theme = "spectral"
+#theme = "spectral"
 #googleAnalytics = "G-XXXXXXXXXX"
 
 [params]
