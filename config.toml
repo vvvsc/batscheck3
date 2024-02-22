@@ -170,7 +170,7 @@ phone = "+595980000000"
 address = "12 de Octubre 327 casi 11 de diciembre. <br />Asunción <br /> Paraguay."
 email = "batscheck@batscheck.com.py"
 subject = "Nuevo Mensaje"
-formspree_form_id = "CZ5NNMFpsgxFFvgbXlK8jK5FL1OYkcnvqiS9CQ1KIjOc9vgNz5Y="
+formspree_form_id = "batscheck"
 
 [params.social]
 twitter = ""
